@@ -1,4 +1,7 @@
 -----------------     Guis   ----------------------------
+ * FaceBook group: Java how to
+ * GitHub : Java how to
+ * YouTube : Java how to 
 
 Every gui can be teasted from MainForGUIs class
 
