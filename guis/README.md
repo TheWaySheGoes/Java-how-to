@@ -1,8 +1,7 @@
 -----------------     Guis   ----------------------------
- * FaceBook group: Java how to
- * GitHub : Java how to
- * YouTube : Java how to 
-
+/* FaceBook group: Programming
+ * GitHub : Java how to 
+ */
 Every gui can be teasted from MainForGUIs class
 
 every gui class can be downloaded and implemeted in different projects
