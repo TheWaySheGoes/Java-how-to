@@ -2,10 +2,8 @@ package strings;
 
 import java.util.Stack;
 import java.util.StringTokenizer;
-
-/* FaceBook group: Java how to
+/* FaceBook group: Programming
  * GitHub : Java how to
- * YouTube : Java how to
  * Reversing words or all characters in a string with StringBuilder and with StringTokenizer 
  */
 public class ReversingString {
