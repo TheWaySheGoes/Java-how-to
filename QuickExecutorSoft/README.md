@@ -2,7 +2,7 @@
 
  * GitHub : Java how to
 
- * program for executing other program. Example on how to invoke other programs
+ * program for executing other programs. Example on how to invoke other programs
 
  * from Java
 
