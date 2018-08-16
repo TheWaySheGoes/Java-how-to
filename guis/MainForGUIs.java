@@ -1,8 +1,7 @@
 package guis;
 
 import javax.swing.JFrame;
-
-/* FaceBook group: Java how to
+/* FaceBook group: Programming
  * GitHub : Java how to
  * this starts the GUI. You can make you own Frame but it has to have 
  * some properties 
