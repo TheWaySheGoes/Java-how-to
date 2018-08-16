@@ -1,6 +1,5 @@
 package strings;
-
-/* FaceBook group: Java how to
+/* FaceBook group: Programming
  * GitHub : Java how to
  * Manipulating string one character at a time 
  */
