@@ -1,6 +1,6 @@
 package strings;
 
-/* FaceBook group: Java how to
+/* FaceBook group: Programming
  * GitHub : Java how to
  * Divide a String by index 
  */
