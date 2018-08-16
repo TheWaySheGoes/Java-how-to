@@ -1,6 +1,6 @@
 package strings;
 
-/* FaceBook group: Java how to
+/* FaceBook group: Programming
  * GitHub : Java how to
  * Building strings from other strings
  * Adding strings together with StringBuilder
