@@ -11,8 +11,7 @@ import javax.swing.JButton;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
-
-/* FaceBook group: Java how to
+/* FaceBook group: Programming
  * GitHub : Java how to
  * Simple login screen can be implemented in other guis by making
  * new object "LoginGUI loginObj = new LoginGUI();" and adding it to a frame
