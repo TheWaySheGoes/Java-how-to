@@ -3,7 +3,7 @@ package strings;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-/* FaceBook group: Java how to
+/* FaceBook group: Programming
  * GitHub : Java how to
  * Breaking String in to words with StringTokenizer
  */
