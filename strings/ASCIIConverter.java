@@ -1,8 +1,7 @@
 package strings;
 
-/* FaceBook group: Java how to
+/* FaceBook group: Programming
  * GitHub : Java how to
- * YouTube : Java how to
  * Converting from ASCII to Unicode Character
  */
 public class ASCIIConverter {
