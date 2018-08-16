@@ -2,9 +2,7 @@ package strings;
 
 import java.text.FieldPosition;
 import java.text.Format;
-import java.text.ParsePosition;
-
-/* FaceBook group: Java how to
+/* FaceBook group: Programming
  * GitHub : Java how to
  * Align a text to CENTER, LEFT, or RIGHT, with a given line width, and given text 
  */
